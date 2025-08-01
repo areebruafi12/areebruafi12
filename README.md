@@ -3,7 +3,8 @@
 # 👋 Hey, I’m **Mohammad Areeb Ruafi**  
 *AI & Data Science Student | Java + DSA Enthusiast | Dreaming Product-Based SDE*
 
-<img src="YOUR_PFP_URL" width="160" style="border-radius:50%;" alt="Profile Pic">
+<img src="![linkedin pfp](https://github.com/user-attachments/assets/336832bd-acdb-4ecc-8817-1a0f4363514b)
+" width="160" style="border-radius:50%;" alt="Profile Pic">
 
 </div>
 
